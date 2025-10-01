@@ -1,4 +1,4 @@
-# Portfolio de Projetos - Wirys Mendes 👋
+# Portfolio de Projetos - Wirys Mendes
 
 Bem-vindo ao meu portfólio de projetos!  
 Este repositório reúne meus projetos pessoais e profissionais, com foco em Python, análise de dados, banco de dados e soluções em nuvem.
@@ -7,7 +7,7 @@ Este repositório reúne meus projetos pessoais e profissionais, com foco em Pyt
 
 ## Projetos
 
-### 1. [Projeto Previsão BH](./projeto_previsao_bh)
+### 1. [Projeto Previsão de preços para apartamentos em Belo Horizonte - MG](./projeto_previsao_bh)
 Análise e previsão de preços de imóveis em Belo Horizonte.  
 O projeto inclui:
 - Coleta e limpeza de dados
