@@ -48,4 +48,3 @@ O projeto inclui:
 ---
 
 
-![Snake animation](https://github.com/w1rys/w1rys/blob/output/github-contribution-grid-snake.svg)
